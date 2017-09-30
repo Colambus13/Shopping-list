@@ -1,0 +1,57 @@
+.ul{
+	width: 300px;
+    /* height: 500px; */
+    margin: 10px auto;
+    background-color: black;
+    padding: 0px;
+    min-height: 400px;
+}
+
+form{
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+li{
+    list-style-type: none; 
+}
+
+
+.logo{
+	width: 50px;
+    height: 60px;
+    margin-top: 27px;
+    margin-left: 122px;
+}
+
+.text{
+	color: white;
+    font-size: 16px;
+    padding-top: 5px;
+    padding-left: 61px;
+    padding-bottom: 20px;
+    letter-spacing: 4px;
+}
+
+.li{
+	list-style: none;
+	width: 300px;
+	height: 30px;
+	background-color: #59D8FF; 
+	color: white;
+	border-bottom: 1px solid #848282;
+}
+
+.add{
+    border-radius: 5px;
+}
+
+.delete{
+    float: right;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.hide {
+        display: none;
+    }
